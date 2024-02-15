@@ -48,7 +48,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kabir4874/kabir4874/output/github-contribution-grid-snake.svg" /> -->
-      <img alt="GitHub Contribution Graph" src="https://github.com/users/kabir4874/contributions" />
+      <img alt="GitHub Contribution Graph" src="https://github-readme-stats.vercel.app/api?username=kabir4874" />
   
   <br/><br/><br/>
 </div>
