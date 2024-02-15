@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **MERN Stack Web Development**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/kabir4874/kabir4874/issues)**
 
 ⚡ Fun fact **How can you tell that a web developer is working? You can hear him Grunting!**
 
@@ -58,10 +58,10 @@
 <br>
 <div align=center>
  
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kabir4874" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kabir4874&theme=dark" alt="readme stats" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=kabir4874&count_private=true&show_icons=true&theme=react" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir4874&hide=html&layout=compact" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir4874&hide=html&layout=compact&theme=dark" alt="top langs" />
 </div>
 
 <br/><br/>
