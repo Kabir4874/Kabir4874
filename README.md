@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,cpp" /><br>
 </div>
 
 <br/>
@@ -47,7 +47,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kabir4874/kabir4874/output/github-contribution-grid-snake.svg" />
+  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kabir4874/kabir4874/output/github-contribution-grid-snake.svg" /> -->
+    <img alt="snake eating my contributions" src="https://github-readme-contribution-snake.herokuapp.com/snake?user=kabir4874" />
   
   <br/><br/><br/>
 </div>
