@@ -12,7 +12,7 @@
  
  🔭 I’m currently **a student**
  
- 🌱 I’m currently learning **MERN Stack Web Development**
+ 🌱 I’m a **Full Stack Developer**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/kabir4874/kabir4874/issues)**
 
