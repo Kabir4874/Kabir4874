@@ -12,11 +12,11 @@
  
  🔭 I’m currently **a student**
  
- 🌱 I’m currently learning **MERN Stack Web Development**
+ 🌱 I’m a **Full Stack Developer**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/kabir4874/kabir4874/issues)**
 
-⚡ Fun fact **How can you tell that a web developer is working? You can hear him Grunting!**
+⚡ Fun fact **How can you tell a web developer is working? You can hear him Grunting!**
 
  </div>
  
@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/kabir4874" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://kabir4874.github.io" target="_blank">
+  <a href="https://kabir-ahmed.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,nextjs,tailwind,git,redux,postgresql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,cpp,nestjs,prisma,flutter" /><br>
 </div>
 
 <br/>
