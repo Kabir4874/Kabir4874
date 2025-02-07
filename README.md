@@ -13,6 +13,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
   <br />
   
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kabir4874.kabir4874" />
+
 ![age](https://img.shields.io/badge/age-23-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-ff69b4)
@@ -106,4 +107,5 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 </div>
 
 <br/>
+
 ![](https://i.imgur.com/IuzIC2j.png)
