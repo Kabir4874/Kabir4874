@@ -1,5 +1,5 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kabir4874.kabir4874" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kabir+Ahmed+Ridoy!;" />
 </h1>
