@@ -106,6 +106,4 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 </h1>
 </div>
 
-<br/>
-
 ![](https://i.imgur.com/IuzIC2j.png)
