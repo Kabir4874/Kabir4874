@@ -42,10 +42,8 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <br/>
 <hr/>
 
-## 🎀 Favourite Stack
-
-<div align="left">
-
+<div align="center">
+<h2>🎀 Favourite Stack</h2>
 <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Redux.js" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -90,6 +88,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <div align="center">
 
 ## Show some ❤️ by starring ⭐ some of the repositories!
+
 <br/>
 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://kabir-ahmed.netlify.app/)
