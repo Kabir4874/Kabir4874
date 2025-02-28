@@ -67,8 +67,8 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kabir4874&theme=algolia" alt="readme stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kabir4874&count_private=true&show_icons=true&theme=algolia" alt="readme stats" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir4874&theme=algolia" alt="readme stats" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=kabir4874&count_private=true&show_icons=true&theme=algolia" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir4874&hide=html&layout=compact&theme=dark" alt="top langs" />
 </div>
