@@ -35,8 +35,8 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,nextjs,tailwind,git,redux,postgresql" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,cpp,nestjs,prisma,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,nextjs,tailwind,git,redux,PostgreSQL,graphql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,cpp,nestjs,prisma,flutter,typeorm" /><br>
 </div>
 
 <br/>
