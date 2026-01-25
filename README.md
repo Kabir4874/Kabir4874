@@ -26,7 +26,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
 - 🥅 2025 Goals: Master React Native. Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
-- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1n1Pa_5hLkuYN93LoCiObhA6lFgWJf4JD/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1KS9EV2IcJIw6Vta3gpLZcrIrF3YZv5y3/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
  </div>
 
