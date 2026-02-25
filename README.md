@@ -66,16 +66,20 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=415 src="https://github-readme-streak-stats.herokuapp.com/?user=kabir4874&theme=algolia" alt="readme stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kabir4874&count_private=true&show_icons=true&theme=algolia" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kabir4874&count_private=true&theme=tokyonight&border_radius=10&card_width=450" alt="streak stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kabir4874&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kabir4874&theme=tokyonight" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir4874&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-<br />
+
+<br/><br/>
+
+<hr/>
 
 <div align="center">
+  <h2>🏆 GitHub Profile Trophy</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kabir4874&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Kabir's Profile Trophies" />
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=kabir4874&column=8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="Kabir's Profile Trophies" />
   </a>
 </div>
 
@@ -84,30 +88,22 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <hr/>
 
 <div align="center">
-  <h2>📊 Contribution Graph - The Grind Never Stops 💪</h2>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kabir4874&custom_title=Contribution%20Graph%20-%20The%20Grind%20Never%20Stops%20💪&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&title_color=00F7FF" alt="Contribution Graph" />
+  <h2>📊 Contribution Graph</h2>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kabir4874&custom_title=Kabir%27s%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area_color=628fdb&title_color=628fdb&area=true" alt="Contribution Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>📊 Detailed Contribution Stats</h2>
+  <h2>📈 Profile Summary</h2>
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabir4874&theme=tokyonight" alt="Profile Details" />
-  <br/>
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir4874&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages by Repo" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kabir4874&theme=tokyonight" alt="Top Languages by Commit" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=kabir4874&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="Stats Card" />
+  <br/><br/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabir4874&theme=tokyonight" alt="Top Languages by Repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kabir4874&theme=tokyonight" alt="Top Languages by Commit" />
+  <br/><br/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kabir4874&theme=tokyonight" alt="Stats Card" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kabir4874&theme=tokyonight&utcOffset=6" alt="Commits by Time of Day (UTC +6)" />
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kabir4874&theme=tokyonight&utcOffset=6&v=20260225" alt="Commits (UTC +6.00)" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabir4874&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="Fallback GitHub Stats Card" />
-</p>
 
 <br/><br/>
 
