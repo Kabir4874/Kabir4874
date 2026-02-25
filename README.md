@@ -66,7 +66,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kabir4874&count_private=true&theme=tokyonight&border_radius=10&card_width=450" alt="streak stats" />
+  <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kabir4874&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats" />
   <br/><br/>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kabir4874&custom_title=Kabir%27s%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area_color=628fdb&title_color=628fdb&area=true" alt="Contribution Graph" />
   <br/><br/>
