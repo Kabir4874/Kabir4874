@@ -14,7 +14,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
   
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kabir4874.kabir4874" />
 
-![age](https://img.shields.io/badge/age-23-blueviolet)
+![age](https://img.shields.io/badge/age-24-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-ff69b4)
 ![projects](https://img.shields.io/badge/projects-40-important)
@@ -22,11 +22,10 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
   <br />
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 I’m currently learning React Query, GraphQL and React-Native.
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
-- 🥅 2025 Goals: Master React Native. Contribute to Open Source projects.
+- 🥅 2026 Goals: Master DevOps. Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
-- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1STDuesbUK4T_7hrLSWNHZALdN5Y08yTq/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1_dvH0J9td_JN68cp9TdbA-Uj7E6zJsDy/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
  </div>
 
@@ -35,8 +34,8 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,nextjs,tailwind,git,redux,postgresql" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,cpp,nestjs,prisma,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,nextjs,tailwind,git,redux,postgresql,graphql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,mysql,c,java,cpp,nestjs,prisma,flutter" /><br>
 </div>
 
 <br/>
@@ -67,11 +66,10 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- 
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kabir4874&theme=dark" alt="readme stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kabir4874&count_private=true&show_icons=true&theme=react" alt="readme stats" />
+  <img width=415 src="https://github-readme-streak-stats.herokuapp.com/?user=kabir4874&theme=algolia" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kabir4874&count_private=true&show_icons=true&theme=algolia" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir4874&hide=html&layout=compact&theme=dark" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir4874&hide=html&layout=compact&theme=algolia" alt="top langs" />
 </div>
 <br />
 
