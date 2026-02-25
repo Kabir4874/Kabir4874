@@ -69,13 +69,13 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
   <img width=415 src="https://github-readme-streak-stats.herokuapp.com/?user=kabir4874&theme=algolia" alt="readme stats" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=kabir4874&count_private=true&show_icons=true&theme=algolia" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir4874&hide=html&layout=compact&theme=algolia" alt="top langs" />
+  <img width=325 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kabir4874&theme=tokyonight" alt="top langs" />
 </div>
 <br />
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kabir4874&theme=onestar&no-frame=true" alt="Kabir's Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kabir4874&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Kabir's Profile Trophies" />
   </a>
 </div>
 
@@ -94,15 +94,15 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
   <h2>📊 Detailed Contribution Stats</h2>
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabir4874&theme=tokyonight" alt="Profile Details" />
   <br/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabir4874&theme=tokyonight" alt="Top Languages by Repo" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir4874&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages by Repo" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kabir4874&theme=tokyonight" alt="Top Languages by Commit" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kabir4874&theme=tokyonight" alt="Stats Card" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=kabir4874&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="Stats Card" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kabir4874&theme=tokyonight&utcOffset=0" alt="Commits (UTC +0.00)" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kabir4874&theme=tokyonight&utcOffset=6" alt="Commits (UTC +6.00)" />
 </div>
 
 <br/><br/>
