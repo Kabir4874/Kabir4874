@@ -63,39 +63,13 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 <br>
-<div align=center>
+<div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kabir4874&count_private=true&theme=tokyonight&border_radius=10&card_width=450" alt="streak stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kabir4874&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir4874&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<div align="center">
-  <h2>🏆 GitHub Profile Trophy</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=kabir4874&column=8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="Kabir's Profile Trophies" />
-  </a>
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<div align="center">
-  <h2>📊 Contribution Graph</h2>
+  <br/><br/>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kabir4874&custom_title=Kabir%27s%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area_color=628fdb&title_color=628fdb&area=true" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>📈 Profile Summary</h2>
+  <br/><br/>
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabir4874&theme=tokyonight" alt="Profile Details" />
   <br/><br/>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabir4874&theme=tokyonight" alt="Top Languages by Repo" />
