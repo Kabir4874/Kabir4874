@@ -86,6 +86,32 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <hr/>
 
 <div align="center">
+  <h2>📊 Contribution Graph - The Grind Never Stops 💪</h2>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kabir4874&custom_title=Contribution%20Graph%20-%20The%20Grind%20Never%20Stops%20💪&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&title_color=00F7FF" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📊 Detailed Contribution Stats</h2>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabir4874&theme=tokyonight" alt="Profile Details" />
+  <br/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabir4874&theme=tokyonight" alt="Top Languages by Repo" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kabir4874&theme=tokyonight" alt="Top Languages by Commit" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kabir4874&theme=tokyonight" alt="Stats Card" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kabir4874&theme=tokyonight&utcOffset=0" alt="Commits (UTC +0.00)" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<div align="center">
 
 ## Show some ❤️ by starring ⭐ some of the repositories!
 
