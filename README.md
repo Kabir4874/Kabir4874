@@ -101,9 +101,13 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 <br/>
 
-<div align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kabir4874&theme=tokyonight&utcOffset=6" alt="Commits (UTC +6.00)" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kabir4874&theme=tokyonight&utcOffset=6&v=20260225" alt="Commits (UTC +6.00)" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kabir4874&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="Fallback GitHub Stats Card" />
+</p>
 
 <br/><br/>
 
