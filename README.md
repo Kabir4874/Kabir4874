@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kabir+Ahmed+Ridoy!;" />
 </h1>
 
-<h3 align="center">I'm an enthusiastic and passionate Software Developer from Bangladesh ❤</h3>
+<h3 align="center">I'm an enthusiastic and passionate Software Engineer from Bangladesh ❤</h3>
 
 <div align="left">
 
-A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. Now I am working as a Fullstack & AI Automation developer at Butterfly Digital 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web and mobile app 🚀.
+A self-taught, passionate and fast-learner software engineer 🎯 from Dhaka, 🇧🇩 🌎. Now I am working as a Fullstack & AI Automation engineer at Butterfly Digital 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web and mobile app 🚀.
 
   <br />
   
