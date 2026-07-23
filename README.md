@@ -25,7 +25,7 @@ A self-taught, passionate and fast-learner software engineer 🎯 from Dhaka, �
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
 - 🥅 2026 Goals: Master DevOps. Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
-- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1jF9w_nkogHlUmbb4uI2eKTaBPmRQYACl/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1emUyQ6yf-sVXzWToZEcZC_Q0Jm4Vwdgz/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
  </div>
 
